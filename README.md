@@ -8,6 +8,10 @@ Built in React using hooks.
 
 Local storage is utilized to remember a user's name. Geolocation is used to obtain data for weather.
 
+## Other Tech
+
+Quote API: https://github.com/lukePeavey/quotable
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
